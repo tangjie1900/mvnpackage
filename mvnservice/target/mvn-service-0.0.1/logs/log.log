@@ -1,0 +1,8 @@
+2018-12-29 23:57:44    [ INFO ] - [ cn.saylife.mvnservice.Program.main(Program.java:13) main:0 ]    start
+2018-12-29 23:57:44    [ INFO ] - [ cn.saylife.mvnservice.Program.main(Program.java:15) main:2 ]    {"age":18,"name":"jie"}
+2018-12-29 23:57:44    [ INFO ] - [ cn.saylife.mvnservice.Program.main(Program.java:18) main:143 ]    {"age":20,"name":"daqojy"}
+2018-12-29 23:57:44    [ INFO ] - [ cn.saylife.mvnservice.Program.main(Program.java:18) main:143 ]    {"age":21,"name":"aitjfw"}
+2018-12-29 23:57:44    [ INFO ] - [ cn.saylife.mvnservice.Program.main(Program.java:18) main:143 ]    {"age":22,"name":"dihifr"}
+2018-12-29 23:57:44    [ INFO ] - [ cn.saylife.mvnservice.Program.main(Program.java:18) main:143 ]    {"age":23,"name":"frjsqy"}
+2018-12-29 23:57:44    [ INFO ] - [ cn.saylife.mvnservice.Program.main(Program.java:18) main:144 ]    {"age":24,"name":"qwyrsr"}
+2018-12-29 23:57:44    [ INFO ] - [ cn.saylife.mvnservice.Program.main(Program.java:20) main:144 ]    end
